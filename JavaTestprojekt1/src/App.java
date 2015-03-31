@@ -17,6 +17,8 @@ public class App {
 		
 		System.out.println("Hello world 7");
 		
+		System.out.println("Hello world 8");
+		
 	}
 	
 }

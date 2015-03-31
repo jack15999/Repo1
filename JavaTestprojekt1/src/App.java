@@ -15,6 +15,8 @@ public class App {
 		
 		System.out.println("Hello world 6");
 		
+		System.out.println("Hello world 7");
+		
 	}
 	
 }
